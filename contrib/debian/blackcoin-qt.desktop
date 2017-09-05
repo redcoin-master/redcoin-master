@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RedCoin
+Comment=RedCoin P2P Cryptocurrency
+Comment[fr]=RedCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=RedCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/RedCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/RedCoin;
+Categories=Office;

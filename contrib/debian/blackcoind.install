@@ -1,0 +1,2 @@
+debian/bin/RedCoind usr/bin
+src/RedCoind usr/lib/RedCoin
